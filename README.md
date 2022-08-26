@@ -1,13 +1,17 @@
-# Hi there 👋, I'm Mehedi Hasan 
-## apps Developer
-![apps Developer](https://img.freepik.com/free-vector/vector-banner-software-development_107791-3284.jpg?w=740&t=st=1661508988~exp=1661509588~hmac=09bd1db6925f466b9d2e9dc6078fb5ad129690a0cad87cffae566f1eb4a3e75bevelopment_9750031.htm#&position=8&from_view=detail#page=1&query=undefined&from_query=undefined&position=1&from_view=detail">Image by upklyak</a> on Freepik)
+### Hi there 👋, I'm Mehedi Hasan 
+#### Apps Developer
+Hi there 👋, I'm Mehedi Hasan Sany Android Developer Analytical and detail-oriented Android app developer professional with stellar communication skills.
 
-Hi there 👋, my name is Mehedi Hasan Sany Android Developer Analytical and detail-oriented Android app developer professional with stellar communication skills.
+Skills: Flatter / JS / HTML / CSS
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🌱 I’m currently learning Flatter and Dart 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Web development 
+- 📫 How to reach me: sany01868@gmail.com 
 
-- 🔭 I’m currently working on this page. 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdsany)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/sany01868//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/home)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mdsany&show_icons=true)  
 
-
+![Profile views](https://gpvc.arturio.dev/https://github.com/mdsany)  
